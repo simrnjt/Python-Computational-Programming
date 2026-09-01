@@ -10,3 +10,4 @@ print('\n')
 print("Hi, My name is 'Roy'\nI'm 19 years old\nI'm 'Chinese'")
 
 print("hi, i'm from USA\n")
+print("hello, i'm from japan\n")
