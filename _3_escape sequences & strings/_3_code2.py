@@ -8,3 +8,5 @@ print('\n')
 
 #usage of new line(\n) escape sequences to print a full sentence
 print("Hi, My name is 'Roy'\nI'm 19 years old\nI'm 'Chinese'")
+
+print("hi, i'm from USA\n")
