@@ -6,8 +6,8 @@ print('hello "singapore"')
 print("--------------------------------------------------------")
 print('\n')
 
-# \' escape sequences is used in the case of single quotes
-# \'' escape sequences is used in the case of double quotes
+# \' escape sequences is used to print single quotes
+# \'' escape sequences is used to print double quotes
 print('hi, I\'m Rohan')
 print("hi, I\'m Alice")
 print('yellow \'car\'')

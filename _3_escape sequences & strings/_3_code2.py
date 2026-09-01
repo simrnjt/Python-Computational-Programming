@@ -2,6 +2,8 @@
 #i.e.print the new line escape sequence (\n) as a normal text only
 print('King-1 \\n King-2')
 #now, print the backslash and the second text part on a new line
+#here, \\ will become ---> \, so \ will get printed
+    #and \n denotes ---> new line escape sequence
 print('yellow1 \\\n yellow2')
 print('------------------------------------------------')
 print('\n')
