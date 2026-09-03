@@ -8,7 +8,7 @@ print('---------------------------------------------------')
 print('\n')
 
 
-#string formatting
+#string formatting using f-string syntax
 age = 10
 weight = 50
 print(f'yesterday, I saw a one boy with age {age} and weight {weight}.')
