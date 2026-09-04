@@ -1,4 +1,5 @@
-#discussing data types in python
+#Data Types in Python
+
 #in python, everything is a class, even the primitive data types like integer, string, boolean, etc is a class.
 #every value is an instance of a class
 #{} in python are used to fetch the value.
@@ -83,37 +84,3 @@ print(f'Value: {t}')
 print('----------------------------------------------------')
 print('\n')
 
-
-
-#explicit typecast the string to integer
-a = '10'
-print(f'Type: {type(a)}')
-a = int(a)
-print(f'Type: {type(a)}')
-print('----------------------------------------------------')
-print('\n')
-
-
-#explicit typecast the integer to string
-b = 10
-b = str(b)
-print(f'Type: {type(b)}')
-print('----------------------------------------------------')
-print('\n')
-
-
-#convert string to float
-st = '12.5'
-fNum = float(st)
-print(f'Type: {type(fNum)}')
-print('----------------------------------------------------')
-print('\n')
-
-
-#convert boolean value to integer value
-b1 = True
-b2 = False
-x = int(b1)
-print(x)
-y = int(b2)
-print(y)
