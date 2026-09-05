@@ -26,5 +26,6 @@ print('\n')
 
 
 #string duplication
+#the string literal '7' gets repeated here 5 times.
 s3 = '7'
 print(s3*5)
