@@ -17,6 +17,18 @@ print('total count is: ', count1)
 print('--------------------------------------------')
 print('\n')
 
+#for loop with range
+for x in range(0, 10):
+    print(x)
+print('--------------------------------------------')
+print('\n')
+
+#for loop with range and step_size of 2
+for y in range(0, 10, 2):
+    print(y)
+print('--------------------------------------------')
+print('\n')
+
 
 
 
