@@ -63,6 +63,16 @@ print(f'Vale: {num1}')
 print(num1.real, num1.imag)
 #explicitly, type convert into integers
 print(int(num1.real), int(num1.imag))
+
+z1 = 2 + 3j
+z2 = 4 + 2j
+val = z1 * z2
+print(val)
+
+z3 = complex(3, 8)
+print(z3)
+z4 = complex(7, 9)
+print(z3 * z4)
 print('----------------------------------------------------')
 print('\n')
 
